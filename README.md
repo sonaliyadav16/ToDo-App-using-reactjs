@@ -6,4 +6,4 @@ npm install
 and run the app by
 npm start
 
-Live Demo todo-app-official.netlify.app
+Live Demo: https://todo-app-official.netlify.app/
